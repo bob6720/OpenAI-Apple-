@@ -1,5 +1,5 @@
-export const apiKey = 'sk-proj-5Sl3wyKuv3Wdjzo8aIe2T3BlbkFJONfVjRxglYC23yHVH42Q';
-// My API key, get your own >:)
+export const apiKey = 'put your api key in here';
+// Keep the '' in with the api key
 
 export const dummyMessages = [
     {
